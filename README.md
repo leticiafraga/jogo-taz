@@ -1,3 +1,4 @@
 # jogo-taz
-Projeto do Android Studio. Jogo inspirado em "Flappy bird".
-Android Studio Project. Game inspired by "Flappy Bird"
+Android Studio Project using LibGDX. Game inspired by "Flappy Bird"
+Projeto do Android Studio usando LibGDX. Jogo inspirado em "Flappy bird".
+
